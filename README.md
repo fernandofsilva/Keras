@@ -10,3 +10,6 @@ There are multiple ways to build and apply deep learning models in TensorFlow, f
 
 Model validation and selection is an essential part of developing any machine learning model development to help prevent overfitting and improve generalisation.
 
+## [Saving and loading models](https://github.com/fernandofsilva/Keras/tree/main/Saving%20and%20loading%20models)
+
+As part of your deep learning model development, you will need to be able to save and load TensorFlow models, possibly according to certain criteria you want to specify.
