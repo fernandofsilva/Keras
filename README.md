@@ -13,3 +13,7 @@ Model validation and selection is an essential part of developing any machine le
 ## [Saving and loading models](https://github.com/fernandofsilva/Keras/tree/main/Saving%20and%20loading%20models)
 
 As part of your deep learning model development, you will need to be able to save and load TensorFlow models, possibly according to certain criteria you want to specify.
+
+## [The Functional API](https://github.com/fernandofsilva/Keras/tree/main/Functional%20API)
+
+TensorFlow offers multiple levels of API for constructing deep learning models, with varying levels of control and flexibility. 
