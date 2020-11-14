@@ -21,3 +21,7 @@ TensorFlow offers multiple levels of API for constructing deep learning models, 
 ## [Data Pipeline](https://github.com/fernandofsilva/Keras/tree/main/Data%20Pipeline)
 
 A flexible and efficient data pipeline is one of the most essential parts of deep learning model development.
+
+## [Sequential Modelling](https://github.com/fernandofsilva/Keras/tree/main/Sequence%20Modelling)
+
+Sequence modelling tasks represent a rich and interesting class of problems, ranging from natural language tasks such as part-of-speech tagging and sentiment analysis, to forecasting of financial time series and speech audio generation. 
