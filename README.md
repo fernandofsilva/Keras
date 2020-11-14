@@ -17,3 +17,7 @@ As part of your deep learning model development, you will need to be able to sav
 ## [The Functional API](https://github.com/fernandofsilva/Keras/tree/main/Functional%20API)
 
 TensorFlow offers multiple levels of API for constructing deep learning models, with varying levels of control and flexibility. 
+
+## [Data Pipeline](https://github.com/fernandofsilva/Keras/tree/main/Data%20Pipeline)
+
+A flexible and efficient data pipeline is one of the most essential parts of deep learning model development.
